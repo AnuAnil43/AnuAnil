@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Coding\Wordproblem\bin\Debug\net6.0\Wordproblem.exe
+C:\Dotnet\AnuAnil\Coding\Wordproblem\bin\Debug\net6.0\Wordproblem.deps.json
+C:\Dotnet\AnuAnil\Coding\Wordproblem\bin\Debug\net6.0\Wordproblem.runtimeconfig.json
+C:\Dotnet\AnuAnil\Coding\Wordproblem\bin\Debug\net6.0\Wordproblem.dll
+C:\Dotnet\AnuAnil\Coding\Wordproblem\bin\Debug\net6.0\Wordproblem.pdb
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.dll
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\refint\Wordproblem.dll
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.pdb
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\Wordproblem.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Coding\Wordproblem\obj\Debug\net6.0\ref\Wordproblem.dll
