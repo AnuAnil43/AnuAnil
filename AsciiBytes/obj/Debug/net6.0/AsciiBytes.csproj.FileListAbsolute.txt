@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\AsciiBytes\bin\Debug\net6.0\AsciiBytes.exe
+C:\Dotnet\AnuAnil\AsciiBytes\bin\Debug\net6.0\AsciiBytes.deps.json
+C:\Dotnet\AnuAnil\AsciiBytes\bin\Debug\net6.0\AsciiBytes.runtimeconfig.json
+C:\Dotnet\AnuAnil\AsciiBytes\bin\Debug\net6.0\AsciiBytes.dll
+C:\Dotnet\AnuAnil\AsciiBytes\bin\Debug\net6.0\AsciiBytes.pdb
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.dll
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\refint\AsciiBytes.dll
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.pdb
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\AsciiBytes.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\AsciiBytes\obj\Debug\net6.0\ref\AsciiBytes.dll
