@@ -1,0 +1,10 @@
+C:\School.App\School.Logic\obj\Debug\net6.0\School.Logic.csproj.AssemblyReference.cache
+C:\School.App\School.Logic\obj\Debug\net6.0\School.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\School.App\School.Logic\obj\Debug\net6.0\School.Logic.AssemblyInfoInputs.cache
+C:\School.App\School.Logic\obj\Debug\net6.0\School.Logic.AssemblyInfo.cs
+C:\School.App\School.Logic\obj\Debug\net6.0\School.Logic.csproj.CoreCompileInputs.cache
+C:\220307-UTA-NET\AnuAnil\School.App\School.Logic\obj\Debug\net6.0\School.Logic.csproj.AssemblyReference.cache
+C:\220307-UTA-NET\AnuAnil\School.App\School.Logic\obj\Debug\net6.0\School.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\220307-UTA-NET\AnuAnil\School.App\School.Logic\obj\Debug\net6.0\School.Logic.AssemblyInfoInputs.cache
+C:\220307-UTA-NET\AnuAnil\School.App\School.Logic\obj\Debug\net6.0\School.Logic.AssemblyInfo.cs
+C:\220307-UTA-NET\AnuAnil\School.App\School.Logic\obj\Debug\net6.0\School.Logic.csproj.CoreCompileInputs.cache
