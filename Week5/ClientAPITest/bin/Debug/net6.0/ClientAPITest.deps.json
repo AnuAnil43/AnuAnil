@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClientAPITest/1.0.0": {
+        "runtime": {
+          "ClientAPITest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClientAPITest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
