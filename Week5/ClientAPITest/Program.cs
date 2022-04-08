@@ -12,14 +12,14 @@ namespace ClientAPITest
             HttpClient client = new HttpClient();
 
             string response = await client.GetStringAsync("https://jsonplaceholder.typicode.com/todos");
-         //   List<DTOs.ToDo> todo = JsonSerializer.Deserialize<List<DTOs.ToDo>>(response);
+            List<DTOs.ToDo> todo = JsonSerializer.Deserialize<List<DTOs.ToDo>>(response);
             
-            Console.WriteLine(response);
-        /*    foreach( var item in todo)
+          //  Console.WriteLine(response);
+            foreach( var item in todo)
             {
                 Console.WriteLine(item.title);
             }
-        */
+        
         }
     }
 }
