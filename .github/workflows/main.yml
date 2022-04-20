@@ -38,4 +38,4 @@ jobs:
         run: ls ./ -a 
             
       - name: Build the API with dotnet
-        run: dotnet build Week5/ClientAPITest/ --configuration Release -o ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
+        run: dotnet build Week6/DemoApp/DemoApp.Api/ --configuration Release -o ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
