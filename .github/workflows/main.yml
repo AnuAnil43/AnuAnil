@@ -3,7 +3,7 @@
 name: CI Merge and Test WebApp
 
 env:
-   DOTNET_VERSION: '6.0.x'  # set this to the .net core version to use 
+   DOTNET_VERSION: '6.0.2'  # set this to the .net core version to use 
    AZURE_WEBAPP_PACKAGE_PATH: '/BuildOutput'
 
 # Controls when the workflow will run
