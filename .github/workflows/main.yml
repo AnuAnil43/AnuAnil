@@ -4,7 +4,7 @@ name: CI Merge and Test WebApp
 
 env:
    DOTNET_VERSION: '6.0.x'  # set this to the .net core version to use 
-   AZURE_WEBAPP_PACKAGE_PATH: '/BuildOutput'
+   AZURE_WEBAPP_PACKAGE_PATH: './BuildOutput'
 
 # Controls when the workflow will run
 on:
@@ -37,5 +37,5 @@ jobs:
       - name: check folders
         run: ls ./ -a 
             
-      - name: Build with dotnet
+      - name: Build the API with dotnet
         run: dotnet build ./Week6/DemoApp/DemoApp.Api --configuration Release -o ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
