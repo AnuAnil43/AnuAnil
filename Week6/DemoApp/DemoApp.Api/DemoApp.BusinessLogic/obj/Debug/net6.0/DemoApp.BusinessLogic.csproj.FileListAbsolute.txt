@@ -1,0 +1,12 @@
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.deps.json
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\refint\DemoApp.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\DemoApp.BusinessLogic.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.BusinessLogic\obj\Debug\net6.0\ref\DemoApp.BusinessLogic.dll

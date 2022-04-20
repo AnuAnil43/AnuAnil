@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DemoApp.Api",
+    "\\DemoApp.Api\\DemoApp.Api",
+    "\\DemoApp.Api\\DemoApp.Api\\Controllers",
+    "\\DemoApp.Api\\DemoApp.Api\\obj",
+    "\\DemoApp.Api\\DemoApp.Api\\Properties",
+    "\\DemoApp.Console",
+    "\\DemoApp.Console\\DemoApp.Console",
+    "\\DemoApp.Console\\DemoApp.UI",
+    "\\DemoApp.Console\\DemoApp.UI\\bin"
+  ],
+  "SelectedNode": "\\DemoApp.Api\\DemoApp.Api\\Controllers\\DevicesController.cs",
+  "PreviewInSolutionExplorer": false
+}

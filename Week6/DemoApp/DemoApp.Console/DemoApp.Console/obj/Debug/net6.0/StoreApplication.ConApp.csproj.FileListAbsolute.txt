@@ -1,0 +1,5 @@
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.Console\obj\Debug\net6.0\StoreApplication.ConApp.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.Console\obj\Debug\net6.0\StoreApplication.ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.Console\obj\Debug\net6.0\StoreApplication.ConApp.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.Console\obj\Debug\net6.0\StoreApplication.ConApp.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.Console\obj\Debug\net6.0\StoreApplication.ConApp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.deps.json
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.DataLogic.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\bin\Debug\net6.0\DemoApp.BusinessLogic.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.csproj.CopyComplete
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\refint\DemoApp.DataLogic.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\DemoApp.DataLogic.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Api\DemoApp.DataLogic\obj\Debug\net6.0\ref\DemoApp.DataLogic.dll

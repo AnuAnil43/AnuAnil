@@ -1,0 +1,12 @@
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\bin\Debug\net6.0\StoreApplication.UI.deps.json
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\bin\Debug\net6.0\StoreApplication.UI.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\bin\Debug\net6.0\StoreApplication.UI.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\refint\StoreApplication.UI.dll
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\StoreApplication.UI.pdb
+C:\Dotnet\AnuAnil\Inventory\trainer_code\wk-6\DemoApp\DemoApp.Console\DemoApp.UI\obj\Debug\net6.0\ref\StoreApplication.UI.dll
