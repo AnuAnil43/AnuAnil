@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Coding\DNAsequence\bin\Debug\net6.0\DNAsequence.exe
+C:\Dotnet\AnuAnil\Coding\DNAsequence\bin\Debug\net6.0\DNAsequence.deps.json
+C:\Dotnet\AnuAnil\Coding\DNAsequence\bin\Debug\net6.0\DNAsequence.runtimeconfig.json
+C:\Dotnet\AnuAnil\Coding\DNAsequence\bin\Debug\net6.0\DNAsequence.dll
+C:\Dotnet\AnuAnil\Coding\DNAsequence\bin\Debug\net6.0\DNAsequence.pdb
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.dll
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\refint\DNAsequence.dll
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.pdb
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\DNAsequence.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Coding\DNAsequence\obj\Debug\net6.0\ref\DNAsequence.dll
