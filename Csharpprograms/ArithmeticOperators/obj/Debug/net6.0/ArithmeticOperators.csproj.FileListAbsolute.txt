@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.exe
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.dll
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\bin\Debug\net6.0\ArithmeticOperators.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.dll
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\refint\ArithmeticOperators.dll
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ArithmeticOperators.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\ArithmeticOperators\obj\Debug\net6.0\ref\ArithmeticOperators.dll
