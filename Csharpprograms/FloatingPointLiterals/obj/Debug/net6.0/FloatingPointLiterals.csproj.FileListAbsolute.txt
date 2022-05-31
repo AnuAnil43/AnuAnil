@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\bin\Debug\net6.0\FloatingPointLiterals.exe
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\bin\Debug\net6.0\FloatingPointLiterals.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\bin\Debug\net6.0\FloatingPointLiterals.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\bin\Debug\net6.0\FloatingPointLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\bin\Debug\net6.0\FloatingPointLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\refint\FloatingPointLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\FloatingPointLiterals.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\FloatingPointLiterals\obj\Debug\net6.0\ref\FloatingPointLiterals.dll

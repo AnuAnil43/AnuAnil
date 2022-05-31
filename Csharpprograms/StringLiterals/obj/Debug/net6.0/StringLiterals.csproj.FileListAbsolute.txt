@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\bin\Debug\net6.0\StringLiterals.exe
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\bin\Debug\net6.0\StringLiterals.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\bin\Debug\net6.0\StringLiterals.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\bin\Debug\net6.0\StringLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\bin\Debug\net6.0\StringLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\refint\StringLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\StringLiterals.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\StringLiterals\obj\Debug\net6.0\ref\StringLiterals.dll

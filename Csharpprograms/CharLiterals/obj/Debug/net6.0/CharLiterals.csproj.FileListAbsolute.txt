@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\bin\Debug\net6.0\CharLiterals.exe
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\bin\Debug\net6.0\CharLiterals.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\bin\Debug\net6.0\CharLiterals.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\bin\Debug\net6.0\CharLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\bin\Debug\net6.0\CharLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\refint\CharLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\CharLiterals.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\CharLiterals\obj\Debug\net6.0\ref\CharLiterals.dll

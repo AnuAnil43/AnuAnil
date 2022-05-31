@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\bin\Debug\net6.0\IntergerLiterals.exe
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\bin\Debug\net6.0\IntergerLiterals.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\bin\Debug\net6.0\IntergerLiterals.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\bin\Debug\net6.0\IntergerLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\bin\Debug\net6.0\IntergerLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\refint\IntergerLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\IntergerLiterals.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\IntergerLiterals\obj\Debug\net6.0\ref\IntergerLiterals.dll

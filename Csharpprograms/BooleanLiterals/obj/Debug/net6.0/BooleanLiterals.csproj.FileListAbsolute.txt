@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\bin\Debug\net6.0\BooleanLiterals.exe
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\bin\Debug\net6.0\BooleanLiterals.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\bin\Debug\net6.0\BooleanLiterals.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\bin\Debug\net6.0\BooleanLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\bin\Debug\net6.0\BooleanLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\refint\BooleanLiterals.dll
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\BooleanLiterals.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\BooleanLiterals\obj\Debug\net6.0\ref\BooleanLiterals.dll

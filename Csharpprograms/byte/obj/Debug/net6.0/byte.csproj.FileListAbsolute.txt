@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\byte\bin\Debug\net6.0\byte.exe
+C:\Dotnet\AnuAnil\Csharpprograms\byte\bin\Debug\net6.0\byte.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\byte\bin\Debug\net6.0\byte.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\byte\bin\Debug\net6.0\byte.dll
+C:\Dotnet\AnuAnil\Csharpprograms\byte\bin\Debug\net6.0\byte.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.dll
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\refint\byte.dll
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\byte.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\byte\obj\Debug\net6.0\ref\byte.dll

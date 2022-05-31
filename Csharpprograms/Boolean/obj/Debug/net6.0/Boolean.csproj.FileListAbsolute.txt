@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\bin\Debug\net6.0\Boolean.exe
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\bin\Debug\net6.0\Boolean.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\bin\Debug\net6.0\Boolean.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\bin\Debug\net6.0\Boolean.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\bin\Debug\net6.0\Boolean.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\refint\Boolean.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\Boolean.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Boolean\obj\Debug\net6.0\ref\Boolean.dll

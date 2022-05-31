@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\bin\Debug\net6.0\Datatypes.exe
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\bin\Debug\net6.0\Datatypes.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\bin\Debug\net6.0\Datatypes.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\bin\Debug\net6.0\Datatypes.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\bin\Debug\net6.0\Datatypes.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\refint\Datatypes.dll
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\Datatypes.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Datatypes\obj\Debug\net6.0\ref\Datatypes.dll

@@ -1,0 +1,5 @@
+C:\Dotnet\AnuAnil\Csharpprograms\Pointerprogram\obj\Debug\net6.0\Pointerprogram.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Pointerprogram\obj\Debug\net6.0\Pointerprogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\Pointerprogram\obj\Debug\net6.0\Pointerprogram.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\Pointerprogram\obj\Debug\net6.0\Pointerprogram.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\Pointerprogram\obj\Debug\net6.0\Pointerprogram.csproj.CoreCompileInputs.cache

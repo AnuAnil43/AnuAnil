@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.exe
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.dll
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\bin\Debug\net6.0\SumOfTwoNumbers.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.dll
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\refint\SumOfTwoNumbers.dll
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\SumOfTwoNumbers.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\SumOfTwoNumbers\obj\Debug\net6.0\ref\SumOfTwoNumbers.dll

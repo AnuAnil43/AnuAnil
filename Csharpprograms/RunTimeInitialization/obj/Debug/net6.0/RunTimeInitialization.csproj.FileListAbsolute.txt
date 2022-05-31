@@ -1,0 +1,15 @@
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.csproj.AssemblyReference.cache
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.AssemblyInfoInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.AssemblyInfo.cs
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.csproj.CoreCompileInputs.cache
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\bin\Debug\net6.0\RunTimeInitialization.exe
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\bin\Debug\net6.0\RunTimeInitialization.deps.json
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\bin\Debug\net6.0\RunTimeInitialization.runtimeconfig.json
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\bin\Debug\net6.0\RunTimeInitialization.dll
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\bin\Debug\net6.0\RunTimeInitialization.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.dll
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\refint\RunTimeInitialization.dll
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.pdb
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\RunTimeInitialization.genruntimeconfig.cache
+C:\Dotnet\AnuAnil\Csharpprograms\RunTimeInitialization\obj\Debug\net6.0\ref\RunTimeInitialization.dll
