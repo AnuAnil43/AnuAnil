@@ -38,4 +38,3 @@ jobs:
         run: ls ./ -a 
             
       - name: GuessingGame
-        run: dotnet build ./Week14/GuessingGame/Program.cs --configuration Release -o ${{ env.AZURE_WEBAPP_PACKAGE_PATH }}
