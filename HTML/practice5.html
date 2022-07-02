@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Scenary</title>
+        <link rel="stylesheet" href="style2.css">
+        <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Poppins:wght@100&display=swap" rel="stylesheet">
+    </head>
+    <body>
+    <section id="banner">
+      <img src="download.jpg" class="logo">
+      <div class ="banner-text">
+        <h1>Wow</h1>
+        <p>So cuteeeeeeeeeeeeeee.........</p>
+        <div class="banner-btn">
+            <a href="#"><span></span>Click</a>
+            <a href="#"><span></span>Pling</a>
+        </div>
+      </div>
+    </section>
+    <div id="sideNav">
+        <nav>
+            <ul>
+                <li><a href="#">Cut</a></li>
+                <li><a href="#">Chop</a></li>
+                <li><a href="#">Spray</a></li>
+                <li><a href="#">Spread</a></li>
+                <li><a href="#">Burn</a></li>
+
+            </ul>
+        </nav>
+    </div>
+    <div id="menuBtn">
+        <img src="download.jpg" id="menu">
+    </div>
+    <script>
+        var menuBtn = document.getElementById("menuBtn");
+        var sideNav = document.getElementById("sideNav");
+        var menu = document.getElementById("menu");
+        
+        sideNav.style.right = "-250px";
+        
+        menuBtn.onclick = function() {
+            if(sideNav.style.ritgh =="-250px"){
+                sideNav.style.right = "0";
+            }
+            else {
+                sideNav.style.right ="0";
+            }
+        }
+    </script>
+    </body>
+</html>
